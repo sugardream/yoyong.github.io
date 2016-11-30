@@ -1,34 +1,24 @@
 ---
 layout: page
-title: "About me"
-description: "来，一起舞动青春"
+title: "About"
+description: "嘿，你总算找到我啦"
 header-img: "img/plane.jpg"
 ---
 
-##### 自我描述：
-
-i am Peter Chan.
-
-you can call me Peter......
-
-♂
-
-21
-
-> 来，靠近我，聆听我的心声！！！
-
 <center>
-    <p><img src="http://ww4.sinaimg.cn/mw1024/0065PbKCgw1fa5gsn67fpj311s0schdt.jpg" align="center"></p>
+    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
-Ehhhh...I believe this is the path to dream...
+Ehhhh...I know it's not a good question.
 
-在忙碌中经常会回想起冰棒汽水的味道，和那些无所事事一整个夏天的年少。
+My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
 
-——Peter
+喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
+
+——Azeril
 
 
-> Wonderful and glory
+> Live long and prosper
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
